@@ -1,0 +1,7 @@
+[project]
+name = "hello-world"
+requirements = []
+costs_version = 1
+[contracts.first-contract]
+path = "contracts/first-contract.clar"
+depends_on = []
